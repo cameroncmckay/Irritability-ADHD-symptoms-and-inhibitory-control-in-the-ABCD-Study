@@ -64,7 +64,7 @@ The script `clpm.R` performs a two-wave cross-lagged pannel model (CLPM) with ma
 
 ## References
 
-[^1]: McKay, C.C., De Jesus, A.V., Peterson, O., Leibenluft, E., Kircanski, K. (2024). Cross-Sectional and Longitudinal Relations Among Irritability, Attention-Deficit/Hyperactivity Disorder Symptoms, and Inhibitory Control. *Journal of the American Academy of Child and Adolescent Psychiatry*. doi: [10.1016/j.jaac.2023.10.015](https://doi.org/10.1016/j.jaac.2023.10.015)
+[^1]: McKay, C.C., De Jesus, A.V., Peterson, O., Leibenluft, E., Kircanski, K. (2024). Cross-Sectional and Longitudinal Relations Among Irritability, Attention-Deficit/Hyperactivity Disorder Symptoms, and Inhibitory Control. *Journal of the American Academy of Child and Adolescent Psychiatry*, *63*(10), 1014-1023. doi: [10.1016/j.jaac.2023.10.015](https://doi.org/10.1016/j.jaac.2023.10.015)
 
 [^2]: McKay, C.C., De Jesus, A.V., Peterson, O., Leibenluft, E., Kircanski, K. Cross-sectional and longitudinal relations among irritability, ADHD symptoms, and inhibitory control in the ABCD study. [osf.io/vzter](osf.io/vzter). Published June 26, 2023.
 
